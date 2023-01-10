@@ -1,4 +1,4 @@
-# Cpunter React App
+# Counter React App
 
 Практическая работа по разработке React приложения. Базовое знакомство с React.
 
